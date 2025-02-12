@@ -6,7 +6,7 @@
   }
   
   body {
-    width: 90%;
+    width: 100%;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -20,8 +20,10 @@
     text-align: center;
     align-items: center;
     gap: 20px;
-    max-width: 200px;
+    max-width: 400px;
     margin: 20px;
+    margin-left: 60px;
+    font-size: small;
   }
   
   .container .tenor-gif-embed {
@@ -41,4 +43,9 @@
     border-radius: 8px;
     box-shadow: 0.5rem 1rem 3rem hsl(0, 0%, 0%, 0.3);
   }
+<<<<<<< HEAD
   
+=======
+
+
+>>>>>>> 82d8c0bd8f9f9e78e76cb32ca39d4e04cc95f5b1
