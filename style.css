@@ -42,11 +42,4 @@
     box-shadow: 0.5rem 1rem 3rem hsl(0, 0%, 0%, 0.3);
   }
 
-@media only screen and (max-width: 600px){
-    .container{
-        max-width: 400px;
-    }
-    .container h1{
-        width: 400px;
-    }
-}  
+
