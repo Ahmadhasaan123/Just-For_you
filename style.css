@@ -20,7 +20,7 @@
     text-align: center;
     align-items: center;
     gap: 20px;
-    max-width: 350px;
+    max-width: 200px;
     margin: 20px;
   }
   
@@ -41,13 +41,4 @@
     border-radius: 8px;
     box-shadow: 0.5rem 1rem 3rem hsl(0, 0%, 0%, 0.3);
   }
-
-
-@media only screen and (max-width: 600px){
-    .container{
-        max-width: 350px;
-    }
-    .container h1{
-        width: 350px;
-    }
-}  
+  
